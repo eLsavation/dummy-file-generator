@@ -64,5 +64,4 @@ To generate files automatically without user input, modify the script to accept 
 ```bash
 python generate_dummy_files.py --count 10
 ```
-For any questions or feedback, reach out via email: **your.email@example.com**
 
